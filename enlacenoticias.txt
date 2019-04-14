@@ -1,0 +1,22 @@
+deportes1 https://www.bbc.com/mundo/deportes-47874344
+deportes2 https://www.bbc.com/mundo/deportes-47867626
+deportes3 https://www.bbc.com/mundo/deportes-47867623
+deportes4 https://www.bbc.com/mundo/deportes-47867621
+deportes5 https://www.bbc.com/mundo/deportes-47827846
+deportes6 https://www.bbc.com/mundo/noticias-47758928
+ciencias1 https://www.bbc.com/mundo/noticias-47915625
+ciencias2 https://www.bbc.com/mundo/noticias-47859720
+ciencias3 https://www.bbc.com/mundo/noticias-47915620
+ciencias4 https://www.bbc.com/mundo/noticias-47909000
+ciencias5 https://www.bbc.com/mundo/noticias-47860116
+ciencias6 https://www.bbc.com/mundo/noticias-47900442
+economia1 https://www.bbc.com/mundo/noticias-47861934
+economia2 https://www.bbc.com/mundo/noticias-47670796
+economia3 https://www.bbc.com/mundo/noticias-47901139
+economia4 https://www.bbc.com/mundo/noticias-47908922
+economia5 https://www.bbc.com/mundo/noticias-47900832
+economia6 https://www.bbc.com/mundo/noticias-47895086
+
+test_cie https://www.bbc.com/mundo/noticias-47884630
+test dep https://www.bbc.com/mundo/deportes-47667089
+test_eco https://www.bbc.com/mundo/noticias-47872006
