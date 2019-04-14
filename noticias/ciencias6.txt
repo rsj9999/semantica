@@ -1,0 +1,112 @@
+Cómo la foto del agujero negro demuestra que Einstein tenía razón: la imagen, explicada por uno de los científicos que la hizo posible
+Alejandra Martins BBC News Mundo
+
+    12 abril 2019
+
+Comparte esta actualización en Facebook
+Comparte esta actualización en Messenger
+Comparte esta actualización en Twitter
+Comparte esta actualización en Email
+
+    Compartir 
+
+Derechos de autor de la imagen EHT Collaboration
+Image caption El agujero negro fotografiado en el corazón de la galaxia M87, en la constelación de Virgo, es 6.500 millones de veces más masivo que el Sol.
+
+Emoción, fascinación y mil preguntas.
+
+La imagen de un agujero negro 6.500 millones de veces más masivo que el Sol, a una distancia de más de 50 millones de años luz de la Tierra, acaparó este miércoles los titulares de los medios de prensa.
+
+    "Un absoluto monstruo": así es la primera foto de un agujero negro
+
+¿Pero qué significan esos colores y siluetas en la foto? ¿Y por qué la forma circular del "anillo de fuego" en torno al agujero negro demuestra que, una vez más, Einstein tenía razón?
+
+Son las preguntas que en BBC Mundo planteamos a uno de los científicos del proyecto Events Horizon Telescope, o EHT, que combinó el poder de observatorios a miles de km para obtener la imagen.
+
+    Cómo los científicos combinaron en el EHT el poder de telescopios a miles de km para lograr la primera fotografía de un agujero negro 
+
+El astrónomo español José Luis Gómez contribuyó al desarrollo de uno de los algoritmos que hizo posible la foto, y es investigador del Instituto de Astrofísica de Andalucía (CSIC).
+Saltar las recomendaciones
+Quizás también te interese
+
+    La falsa heredera que engañó a la alta sociedad de Nueva York y cuya vida de lujos dejó grandes deudas sin pagar
+    El astronauta que rejuveneció en el espacio: el estudio de la NASA que confirma los extraordinarios cambios genéticos que sufre el cuerpo fuera de la Tierra
+    La imagen que muestra los alrededores del agujero negro captado por el Telescopio de Horizonte de Eventos
+    La doble cara de John D. Rockefeller, el multimillonario magnate del petróleo que fue pionero en la construcción de un monopolio
+
+Fin de las recomendaciones.
+¿Qué se ve en la famosa imagen?
+
+"Lo que vemos es material que brilla, que está cayendo al agujero negro en la zona oscura del interior, que es la zona que denominamos el horizonte de sucesos. Ahí es donde toda la luz es captada por el agujero negro y tenemos la completa oscuridad ", explicó Gómez.
+anuncio
+
+El anillo de fuego brilla porque, según señaló el astrónomo español, el material que está cayendo es comprimido.
+
+"Hay mucha fricción entre el material y eso hace que se caliente muchísimo, se calienta tanto que emite radiación en todo el espectro electromagnético".
+Derechos de autor de la imagen EHT ESO PA
+Image caption El agujero negro se ve delineado por un anillo brillante, que corresponde a gas supercalentado que cae en el pozo gravitacional y emite radiación.
+
+Por otra parte, en la zona oscura del interior, toda la luz es captada. Y esa oscuridad solo se ve al ser delineada por el material que está en el borde y cae en el agujero negro.
+
+Ese borde es lo que se denomina la sombra del agujero negro, lo más cercano que podemos estar de él.
+
+En cuanto al color rojo, Gómez aclaró que "no es un color real, la imagen está tomada de hecho en una longitud de onda que nuestros ojos no son capaces de apreciar, parecida a la radio".
+
+"El color es el que nos parecía que representaba mejor la imagen".
+
+    Qué es un agujero negro (y qué posibilidades hay de que la Tierra caiga en uno)
+
+¿Por qué la foto confirma las predicciones de Einstein?
+
+La forma circular que tiene el material que está cayendo en el agujero negro concuerda con las predicciones de la teoría de la relatividad, señaló Gómez.
+
+"Hay otras teorías que dicen que si la gravedad se comportara de una manera distinta a lo que dice la teoría general de la relatividad, la forma puede ser más achatada, parecida a una pelota de rugby".
+
+La forma es circular porque la gravedad depende únicamente de la distancia al objeto, pero no de la dirección en la que te encuentres, añadió el astrónomo.
+Derechos de autor de la imagen AFP
+Image caption La forma circular del material que está cayendo en el agujero negro concuerda con las predicciones de Einstein.
+
+"Imagina que estás viendo la Tierra desde lejos, en órbita. La gravedad de la Tierra no depende de si estás en el polo norte o el polo sur, no es mayor en Londres que en Washington, porque solamente depende de la distancia a la que te encuentres respecto al centro de la tierra.
+
+"Y eso hace que la Tierra sea redonda porque la gravedad va comprimiendo toda la masa de la tierra hasta formar una pelota, la gravedad es igual en toda la Tierra", indicó Gómez.
+
+El mismo fenómeno explica que los planetas y las estrellas sean circulares.
+
+En un agujero negro ocurre lo mismo, expuso Gómez, "solo que la gravedad es tan intensa que llega a producir ese agujero en el espacio-tiempo, pero la forma es circular".
+
+El científico español explicó que cuando el agujero negro rota a máxima velocidad la forma circular es ligeramente achatada, pero eso también lo predice la teoría de la relatividad.
+
+"Con la imagen que mostramos ayer no tenemos la resolución suficiente para determinar si realmente existe una ligera desviación en la circularidad que pueda estar asociada con la rotación, pero sí sabíamos que tenía que ser fundamentalmente circular".
+¿Es realmente una foto?
+
+Es algo que varias personas han preguntado a Gómez y que el astrónomo tiene mucho interés en dejar en claro.
+
+"Es una foto", afirmó el investigador del Instituto de Astrofísica de Andalucía.
+
+Existen distintas maneras de obtener una foto. En el caso del celular, una cámara con un objetivo registra los fotones de luz en pixeles.
+
+En el caso del agujero negro, "la foto se obtiene gracias a un patrón de interferencias, que de una manera perfectamente conocida en matemática te da una imagen utilizando lo que se llama una transformada de Fourier".
+Derechos de autor de la imagen ESO
+Image caption La imagen fue captada combinando el poder de observatorios a miles de km, como ALMA, el Gran Conjunto Milimétrico-submilimétrico de Atacama, en Chile.
+
+"Quizás el ejemplo más visual es que esa técnica que utilizamos -que se llama interferometría- es también la que se utiliza en medicina. Una TAC (tomografía computarizada) utiliza exactamente la misma técnica que nosotros utilizamos para obtener esa imagen.
+
+"Lo que tenemos es una imagen real. Lo que ocurre es que nuestros ojos no tienen la resolución que tienen los instrumentos".
+
+"No podemos verla porque está muy lejos, necesitaríamos tener un ojo que fuera capaz de leer un periódico que sostiene alguien en París cuando estamos sentados en Nueva York, para que te hagas una idea".
+
+"Si estuviéramos al lado de la persona en París lo veríamos, es lo mismo. Si estuviéramos igual de cerca del agujero negro con nuestros propios ojos veríamos la imagen que hemos sacado ayer", explicó.
+El agujero negro masivo de la galaxia Messier 87 se encuentra a 500 trillones de km.
+¿Qué siente José Luis Gómez a nivel personal?
+
+"Lo que siento es una admiración por la teoría de la relatividad, es una satisfacción al ver que realmente Einstein tenía razón", señaló el astrónomo.
+
+"Pero en esto, lo que desde el punto de vista personal más me sorprende es pensar que los agujeros negros puedan existir, es un concepto que a la gente le cuesta imaginar, es una zona donde el universo deja de existir como tal".
+Derechos de autor de la imagen Instituto de Astrofísica de Andalucía
+Image caption José Luis Gómez trabajó en el desarrollo de uno de los algoritmos que permitió obtener la célebre foto del agujero negro.
+
+"La gente era incrédula y ver esa imagen, verlo con tus propios ojos te hace creer.
+
+"Se siente una especie de escalofrío de imaginar que en la naturaleza, en el Universo, existen esos objetos. Queuna vez que has cruzado la puerta del horizonte de sucesos no puedes volver.
+
+"Es una puerta fuera de nuestro universo, es como morir, porque mueres y ya no puedes volver a vivir, lo cruzas y ya no puedes volver a nuestro Universo, es realmente asombroso".
